@@ -1,0 +1,6 @@
+model_checkpoint_path: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-3400"
+all_model_checkpoint_paths: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-2600"
+all_model_checkpoint_paths: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-2800"
+all_model_checkpoint_paths: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-3000"
+all_model_checkpoint_paths: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-3200"
+all_model_checkpoint_paths: "G:\\dl\\code\\9/seq2seq_data/seq2seq_ckpt-3400"
